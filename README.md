@@ -1,19 +1,9 @@
 
-## Description
-
-[contactList]https://github.com/yordy89/contactList.git) task starter repository.
-
-## Installation
-
-```bash
-$ npm install
-```
-
-```bash
-install mongoDb
-```
 
 ## Running the app
+
+# Install
+you nedd to have mongoDb intalled
 
 ```bash
 # development
